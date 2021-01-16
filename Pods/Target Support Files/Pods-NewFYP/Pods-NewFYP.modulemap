@@ -1,0 +1,6 @@
+framework module Pods_NewFYP {
+  umbrella header "Pods-NewFYP-umbrella.h"
+
+  export *
+  module * { export * }
+}
